@@ -2,10 +2,10 @@
 
 
 # Create virtual environment
-python -m venv myenv
+python -m venv venv
 
 # Activate virtual environment
-source myenv/bin/activate
+source venv/Scripts/activate
 
 # Install PyPDF2 package
 pip install PyPDF2
